@@ -19,6 +19,6 @@ Check out the live version of the website here: [Watermelon Website](https://pav
 - JavaScript
 - 📸 Screenshot
 
-🌟 Scroll Trigger Animations
+## 🌟 Scroll Trigger Animations
 <br>
 This website uses scroll-triggered animations to add a fun interactive experience. As you scroll down, different elements like images, text, and buttons will animate to create a lively effect. 🎉
